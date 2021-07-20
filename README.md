@@ -5,3 +5,4 @@
 - Each corresponding association rule (pair of antecedent-consequent) were having support, confidence and lift values.
 - These assoctaion rules can be used to increase sells of one product using popularity of other associated product.
 - These rules can also be utilized in making combination of associated products or giving promotional offers and discounts on associated products.
+- Dataset is huge in size ( > 25 MB) hence not uploaded, it is available in Kaggle
